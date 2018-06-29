@@ -7,10 +7,10 @@ body, html {
 /*border:1px solid red;*/
 /*}*/
 
-#pimage {
+body {
     background-image: url("Background.jpg");
     background-size: cover;
-    height: 750px;
+    /*height: 750px;*/
 
     /*height: 1000px;*/
     /*width: 100%;*/
