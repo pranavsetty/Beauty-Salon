@@ -81,3 +81,14 @@ hr{
     color: black;
 }
 
+#tagline{
+    font-size: 1.8em;
+}
+
+.ones{
+    background-color: lightgray;
+}
+
+.jumbotron-fluid {
+    background-color: rgb(219,219,219);
+}
