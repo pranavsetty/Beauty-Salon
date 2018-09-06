@@ -3,13 +3,11 @@ body, html {
     margin: 0;
 }
 
-/**{*/
-/*border:1px solid red;*/
-/*}*/
+
 
 body {
-    background-image: url("Background.jpg");
-    background-size: cover;
+    /*background-image: url("Background.jpg");*/
+    /*background-size: cover;*/
     /*height: 750px;*/
 
     /*height: 1000px;*/
@@ -92,3 +90,32 @@ hr{
 .jumbotron-fluid {
     background-color: rgb(219,219,219);
 }
+
+.flower1{
+    height:350px;
+    width:500px;
+    display:block;
+    margin: auto ;
+}
+
+.flower2{
+    height:250px;
+    width:275px;
+    display:block;
+    margin:auto;
+
+}
+
+.flower3{
+    height:280px;
+    width:260px;
+    display:block;
+    margin:auto;
+}
+
+
+/**{*/
+/*border:1px solid red;*/
+/*}*/
+
+
