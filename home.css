@@ -3,24 +3,22 @@ body, html {
     margin: 0;
 }
 
-/**{*/
-/*border:1px solid red;*/
-/*}*/
-
-#pimage {
-    background-image: url("Background.jpg");
-    background-size: cover;
-    height: 750px;
+body {
+    /*background-image: url("Background.jpg");*/
+    /*background-size: cover;*/
+    /*height: 750px;*/
 
     /*height: 1000px;*/
     /*width: 100%;*/
     /*background-size: 100%;*/
+    background-image: url("images/background main.jpg");
+    background-size: cover;
 
 }
 
 #pheading {
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lobster', cursive;
     letter-spacing: 6px;
     font-size: 3em;
     margin-bottom: 5px;
@@ -62,15 +60,13 @@ li {
     color: black;
 }
 
-hr{
+hr {
     width: 100%;
 }
 
-
-
 .btn-link.dropdown-toggle {
     color: #000;
-    background-color: rgb(241,241,241);
+    background-color: rgb(241, 241, 241);
     font-size: 17px;
 
 }
@@ -79,5 +75,81 @@ hr{
     background-color: white;
     text-decoration: none;
     color: black;
+}
+
+#tagline {
+    font-size: 1.8em;
+}
+
+.ones {
+    background-color: lightgray;
+}
+
+.jumbotron-fluid {
+    background-color: rgb(219, 219, 219);
+}
+
+.flower1 {
+    height: 380px;
+    width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.flower2 {
+    height: 250px;
+    width: 275px;
+    display: block;
+    margin: auto;
+
+}
+
+.flower3 {
+    height: 280px;
+    width: 260px;
+    display: block;
+    margin: auto;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+
+}
+
+p {
+    text-align: center;
+    color:grey;
+    font-size: 1.5em;
+    /*padding-top: 20px;*/
+}
+
+#rights{
+    font-size: 1.0em;
+    margin-left: -25px;
+}
+
+/**{*/
+/*border:1px solid red;*/
+/*}*/
+
+.container-fluid {
+    background: rgb(247, 247, 247);
+
+}
+
+.logo{
+    width: 70px;
+    height:50px;
+    margin-left: -20px;
+}
+
+.modal-title{
+    text-align: center;
 }
 
